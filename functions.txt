@@ -1,0 +1,7 @@
+=--= C FUNCTION =--=
+
+    =-= PRINT =-=
+        printf("Some text.") -> printing texts.
+        printf("%d, %f, %b", integer, float, boolean) -> printing variables with format specifier.
+        format specifiers -> int: %d, %i | float: %f | double: %f, %lf
+    
