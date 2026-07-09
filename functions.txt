@@ -5,5 +5,13 @@
         printf("%d, %f, %b", integer, float, boolean) -> printing variables with format specifier.
         format specifiers -> int: %d, %i | float: %f | double: %f, %lf
     
+    =-= SCANF =-=
+        scanf("%d", &variable) -> Get the user input. It can't get white spaces.
+
+    =-= FGETS =-=
+        fgets(string array, sizeof(array), stdin) -> Get the user input. It allows blank spaces in the user input.
+
     =-= DO/WHILE =-=
+        while(condition) -> runs the code ONLY if the condition is true.
+        do/while(condition) -> runs the code one time before verify if the condition is true.
         
